@@ -21,7 +21,22 @@
 .header li {
     display: inline;
     font-family: monospace ;
-    font-size: 30px;
+    font-size: 50px;
     color: rgb(104, 230, 188);
     
+}
+
+#About-Me {
+text-align: center;
+background-color: blue;
+width: 25%;
+border-style: double;
+border-color: gold;
+border-width: 10px;
+color: grey;
+font-family: Arial, Helvetica, sans-serif;
+}
+
+h2 {
+    font-size: 30px;
 }
