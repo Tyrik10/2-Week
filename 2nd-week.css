@@ -40,3 +40,14 @@ font-family: Arial, Helvetica, sans-serif;
 h2 {
     font-size: 30px;
 }
+
+#Contact-Me ul {
+    list-style: none;
+    display: inline;
+}
+
+#Projects {
+    border-style: groove;
+    border-width: 15px;
+    border-color: gold;
+}
